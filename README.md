@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a stron
 
 ## 💻 My Tech Stack
 
-- Backend: **PHP Laravel**, **Python Django**, **Django REST framework**, **Node.js**, **Express.js**
+- Backend: **PHP Laravel**,**.NET CORE**, **Python Django**, **Django REST framework**, **Node.js**, **Express.js**
 - Frontend: **Vue**,**React**, **Angular**, **HTML5**, **CSS3**, **JavaScript**
 - Databases: **MySql**,**SQL Server**,**PostgreSQL**, **MongoDB**
 - Testing: **Pytest**, **Jasmine**, **Karma**
